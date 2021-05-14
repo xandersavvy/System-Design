@@ -1,1 +1,1 @@
-# Disctribbuted System
+# Distributed System
