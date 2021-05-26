@@ -2,9 +2,6 @@
 When all the workings of a system is built into one service , this type of Architecture is called monolith architecture. Here only one codebase handle it all.
 
 
-Structure: 
-  
-
 ### Advantages
  - As everything lives in a single system, monolith architecture is simpler for deploying and testing.
  - As there is no external dependency and whole system is  based on single programming language/ framework, It decreases the probaboloty of crosss cutting.
@@ -17,3 +14,7 @@ Structure:
  - Have to update whole application even for a small bug fix.
  - As whole service is built upon onne framework, Dev's can miss many tools from that particular framework
  - Agility is not effortless
+
+### Structure: 
+  ![Monolith Architecture](./monolith.png)
+  
